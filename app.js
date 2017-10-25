@@ -6,8 +6,8 @@ function addCurrentDate() {
 }
 
 function printMessage(name, city, carModel) {
-	console.log(`${name} lives in ${city} and drives a ${carModel}. Today is ${addCurrentDate()}.`);
+	return (`${name} lives in ${city} and drives a ${carModel}. Today is ${addCurrentDate()}.`);
 }
 
-printMessage('Colin', 'Hartford', 'Peugot');
+console.log(printMessage('Colin', 'Hartford', 'Peugot'));
 
