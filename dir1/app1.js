@@ -1,0 +1,1 @@
+console.log("Created a directory with another app.js file");
