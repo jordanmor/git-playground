@@ -1,1 +1,0 @@
-// This is a javascript file for storing options for the main program
