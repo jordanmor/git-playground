@@ -1,1 +1,2 @@
-This is the README file for my GitHub repository.
+This is my GitHub repository for familiarizing myself with different
+aspects of git and practicing various git commands.
