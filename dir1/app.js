@@ -59,6 +59,3 @@ function printEmployeeInfo(company) {
 }
 
 printEmployeeInfo(telitest);
-
-var a = 1;
-flsd lsdjf l lskdjf slfdsj
