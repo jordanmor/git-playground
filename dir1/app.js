@@ -5,6 +5,10 @@ function addCurrentDate() {
 	return daysOfWeek[today];
 }
 
+function luckyNumber() {
+	return Math.floor(Math.random() * 6) + 1;
+}
+
 function Employees(name, city, carModel) {
 	this.name = name;
 	this.city = city;
@@ -45,7 +49,7 @@ const telitest = new Company(employees, 'New Haven');
 
 
 function printMessage(name, city, carModel) {
-	return (`${name} lives in ${city} and drives a ${carModel}. Today is ${addCurrentDate()}.\n`);
+	return (`${name} lives in ${city} and drives a ${carModel}. Today is ${addCurrentDate()}. Your lucky number today is ${luckyNumber()}\n`);
 }
 
 function printEmployeeInfo(company) {
