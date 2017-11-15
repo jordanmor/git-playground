@@ -1,0 +1,29 @@
+ddaa4f6 Add app.js with merge function
+e912474 Delete text.txt
+2902695 Create text file with example of good commit message
+6e56318 Add luckyNumber() to app.js
+c589f4a Clean code
+54ecfb8 Practice using git checkout HEAD^ <path/to/file>
+aab681e Initialize package.json file
+871a89e Add bcrypt node_module folder to .gitignore
+4f746e0 Add app.js with bcrypt function in new hash dir
+3639c2d Move app.js into dir1
+505bb25 Update README.md
+f718a99 Practive composing git commit messages properly
+8b3c264 Cleaned up code in main.css and added text.txt to dir1
+3754621 Added main.css file
+7343c1f Added to company info function
+fccd102 Deleted file01
+25fbf38 Deleted option.js file
+ea7145a Changes to readme, .gitignore. Added option.js file
+e9a58cf changed console.log to return in printMessage function
+eef7766 Added currentDate function
+6e066ad Added dir1. Ignoring dir2
+676b788 Added .gitignore file
+1b845ca Enhanced function using template literals
+235506f Created function to export message
+8159aa5 Add new app.js file
+daafb22 Made some more changes to file01
+e8ae4ca Added a README.md file
+42787b7 Added some text to file01
+1552414 Added file01 to repository
