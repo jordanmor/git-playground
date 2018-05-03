@@ -4,7 +4,7 @@
   "description": "A password hash generator",
   "main": "app.js",
   "dependencies": {
-    "bcrypt": "^1.0.3",
+    "bcrypt": "^2.0.1",
     "colors": "^1.1.2"
   },
   "devDependencies": {},
