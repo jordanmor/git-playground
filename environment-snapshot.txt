@@ -1,0 +1,17 @@
+TERM_PROGRAM=Apple_Terminal
+SHELL=/bin/bash
+TERM=xterm-256color
+TMPDIR=/var/folders/9y/***********_***********/T/
+Apple_PubSub_Socket_Render=/private/tmp/com.apple.launchd.********/Render
+TERM_PROGRAM_VERSION=404
+TERM_SESSION_ID=58DD87B9-CC25-4015-BF16-858765747565
+USER=***
+PATH=/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
+PWD=/Volumes/Data/Coding
+LANG=en_US.UTF-8
+XPC_FLAGS=0x0
+XPC_SERVICE_NAME=0
+SHLVL=1
+HOME=/Volumes/Data/Coding
+LOGNAME=***
+_=/usr/bin/env
